@@ -182,7 +182,8 @@ npm run dev
 2. **Update the demo URL** in this README (replace `sarthak536` if needed)
 3. **Enable GitHub Pages**:
    - Go to repository Settings → Pages
-   - Source: "GitHub Actions" (NOT "Deploy from a branch")
+   - Source: "Deploy from a branch"
+   - Branch: "gh-pages" → "/ (root)"
 4. **Push to main branch** - GitHub Actions will automatically build and deploy
 5. **Access your demo** at: `https://sarthak536.github.io/spam_detection_email_summarizer/`
 
