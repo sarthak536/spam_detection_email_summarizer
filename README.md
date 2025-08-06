@@ -28,22 +28,34 @@ A full-stack web application that intelligently detects spam emails and provides
 | **UI/UX** | ✅ Full features | ✅ Full features |
 | **Processing Time** | ~1-3 seconds | ~1-3 seconds (simulated) |
 
+### 📸 Application Preview
+
+![Main Interface](screenshots/Screenshot%201.png)
+*Clean, modern interface with email input and real-time analysis*
+
+![Analysis Results](screenshots/Screenshot%202.png)
+*Comprehensive spam detection and summarization results*
+
 ### Screenshots
 
 <details>
-<summary>📸 Click to view screenshots</summary>
+<summary>📸 Click to view all screenshots</summary>
 
+#### Main Application Interface
 ![Main Interface](screenshots/Screenshot%201.png)
-*Main application interface with email input and analysis results*
+*The main application interface showing email input area and real-time analysis results*
 
+#### Spam Detection Results
 ![Spam Detection](screenshots/Screenshot%202.png)
-*Spam detection results with confidence scores*
+*Spam detection results displaying confidence scores and classification details*
 
+#### Email Summarization
 ![Email Summary](screenshots/Screenshot%203.png)
-*Email summarization with compression statistics*
+*Email summarization feature showing original text compression and intelligent summary generation*
 
-![Demo Mode](screenshots/Screenshot%204.png)
-*Automatic fallback to demo mode when backend is unavailable*
+#### Complete Analysis Dashboard
+![Complete Analysis](screenshots/Screenshot%204.png)
+*Full analysis view combining both spam detection and email summarization with detailed metrics*
 
 </details>
 
